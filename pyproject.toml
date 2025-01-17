@@ -46,7 +46,7 @@ test = [
   "torchvision",
   "pytest>=8.1.0",
   "sqlalchemy",
-  "ruff>=0.5.0",
+  "ruff>=0.9.2",
   "accelerate",
   "soundfile",
   "litellm>=1.55.10",
